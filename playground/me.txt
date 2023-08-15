@@ -1,5 +1,0 @@
-{{#user}
-Name: Parth
-Skills: HTML, CSS, JS, Python, Bootstrap
-Email: parthjuvatkar@gmail.com
-{{/user}}
